@@ -1,0 +1,37 @@
+# Site settings
+name: Christopher Desmonds
+email: chimbadzwa.christopherdesmond@gmail.com
+#canonical_url: https://
+keywords: "Software Engineer, Python, Java, Machine Learning, Deep Learning, Startups, PHP, JavaScript, Pair Programming"
+skills: "Full Stack Developer"
+baseurl:
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# You should replace these with your social networks, of course. :)
+social:
+  - title: facebook
+    url: https://www.facebook.com/chistopherdesmond.chimbadzwa
+  - title: instagram
+    url: https://instagram.com/@desmonds.chriss
+  - title: twitter
+    url: https://twitter.com/chrisdesmonds
+    
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 2196F3
+  primary-rgb: "33, 150, 243"
+  secondary: 285172
+  secondary-dark: 29455b
+  section-tout: eaf1f1
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
