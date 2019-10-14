@@ -2,7 +2,7 @@
 name: Christopher Desmonds
 email: chimbadzwa.christopherdesmond@gmail.com
 #canonical_url: https://
-keywords: "Software Engineer, Python, Java, Machine Learning, Deep Learning, Startups, PHP, JavaScript, Pair Programming"
+keywords: "Software Engineer, Front End, Back End, IT Developer, Javascript, ASP.NET Core, C#, Python, Java, Machine Learning, Deep Learning, Startups, PHP, JavaScript, Pair Programming"
 skills: "Full Stack Developer"
 baseurl:
 
@@ -15,6 +15,8 @@ social:
     url: https://instagram.com/desmonds.chriss
   - title: twitter
     url: https://twitter.com/@chrissdesmond
+  - title: linkedin
+    url: https://linkedin.com/in/chrissdesmonds
     
 # Google webmaster tools
 google_verify:
